@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-class Main {
+class EvenOddChecker {
 
     public static void main(String[] args) {
 
